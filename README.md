@@ -7,4 +7,8 @@ Kunjungi website git lalu kita klik Sign in (Sudah mempunyai akun) atau Sign up 
 
 ### Membuat Repository
 Jika sudah daftar/login akun, lalu klik create repository
-![Gambar 2](screenshot/ss2.png) 
+![Gambar 2](screenshot/ss2.png)
+
+### Nama Repository
+Buatlah nama dan pilihlah sesuai kebutuhan
+![Gambar 3](sreenshot/ss3.png)
