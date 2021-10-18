@@ -31,6 +31,7 @@ Kalau sudah buka file anda lalu ke penyimpanan yang anda ketik sebelumnya, lalu 
 Lalu pilih file lalu new file dan save "namafile.html" save typenya juga pilih html. 
 Setelah itu ketik "html:5" enter, lalu ubah sesuai kebutuhan dan jangan lupa disave.
 ![Gambar 6](screenshot/ss6.png)
+
 Setelah disave, pergi ke file yang tadi lalu buka file yang anda buat menggunakan google ataupun sejenisnya, inilah tampilannya
 ![Gambar 7](screenshot/ss7.png)
 
@@ -41,7 +42,10 @@ Ketik "git add (nama file yang dibuat lewat vscode)" enter <p>
 Lalu ketik "git status" enter, jika hijau maka berhasil menambahkan <P> 
 Ketik "git commit -m "menambahkan file (nama file)"" nama komentarnya opsional <p>
 ![Gambar 8](screenshot/ss8.png)
+
 Lalu jika baru pertama kali membuka aplikasi Git dilaptop, maka akan muncul seperti gambar dibawah ini <p> 
+![Gambar 10](screenshot/ss10.png)
+
 Lalu ketik "git config --global user.email "emailanda"" enter <p>
 Ketik lagi "git cinfig --global user.name "namaanda" enter <p>
 Lalu ketik "git status" <p>
