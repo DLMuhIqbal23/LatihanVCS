@@ -18,7 +18,7 @@ Inilah tampilan setelah membuat repository, setelah itu kita download gitnya den
 ![Gambar 4](screenshot/ss4.png)
 
 ### Masukan Kode
-Buka Aplikasi Git, lalu masukan kode:
+Buka Aplikasi Git, lalu masukan kode: <p>
 ketik "pwd" lalu enter <p>
 lalu ketik "cd /d/nama file/" opsional menggunakan data d atau c <p>
 ketik "ls" lalu enter <p>
@@ -27,7 +27,9 @@ lalu ketik "git clone (link repository anda) lalu enter, nanti akan muncul tampi
 ![Gambar 5](screenshot/ss5.png)
 
 ### Buka Visual Studio Code
-Kalau sudah buka file anda lalu ke penyimpanan yang anda ketik sebelumnya, lalu buka file README.md menggunakan Visual Studio Code
-Lalu pilih file lalu new file dan save "namafile.html" save typenya juga pilih html <p>
+Kalau sudah buka file anda lalu ke penyimpanan yang anda ketik sebelumnya, lalu buka file README.md menggunakan Visual Studio Code 
+Lalu pilih file lalu new file dan save "namafile.html" save typenya juga pilih html 
 Setelah itu ketik "html:5" enter, lalu ubah sesuai kebutuhan dan jangan lupa disave
 ![Gambar 6](screenshot/ss6.png)
+Setelah disave, pergi ke file yang tadi lalu buka file yang anda buat menggunakan google ataupun sejenisnya, inilah tampilannya
+![Gambar 7](screenshot/ss7.png)
