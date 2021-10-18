@@ -11,4 +11,4 @@ Jika sudah daftar/login akun, lalu klik create repository
 
 ### Nama Repository
 Buatlah nama dan pilihlah sesuai kebutuhan
-![Gambar 3](sreenshot/ss3.png)
+![Gambar 3](screenshot/ss3.png)
